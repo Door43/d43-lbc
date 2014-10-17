@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lbc:home|Door43 (lbc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lbc|d43-lbc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lbc/archive/master.zip|d43-lbc.zip]]
+
+**Recent Changes**
+{{changes>ns = lbc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lbc|Ethnologue data]]
+
